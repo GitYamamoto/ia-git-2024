@@ -1,1 +1,2 @@
 Gitの練習です
+Git練習2回目ですc:\Users\yamamoto_tatsuma\Desktop\ia\git\first.txt
